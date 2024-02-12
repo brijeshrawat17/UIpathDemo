@@ -1,0 +1,15 @@
+﻿{
+  "Name": "App_URL",
+  "Type": "Screen",
+  "Id": "LenSv9GOlUuzq_t5DSj0rg",
+  "Reference": "2SBHW76El0ar955ejbripw/LenSv9GOlUuzq_t5DSj0rg",
+  "ParentRef": "2SBHW76El0ar955ejbripw/jXY4YwAiVkeKQnCTveJlaw",
+  "Created": "2024-02-09T10:48:38.1373094Z",
+  "Updated": "2024-02-09T10:48:38.1373094Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
